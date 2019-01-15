@@ -1,34 +1,18 @@
 
 
-APPENDIX (unmoderated)
-09:30-10:15 (5 minute presentations)
-Magda Tyzlik-Carver
-Søren Pold
-Winnie Soon
-Anne Alexander
-Geoff Cox
-Christian Ulrik Andersen
-// BREAK
-
-#SP
-Interface design
-
-#Geoff Cox
-Komar and Melamid
-GANs - bias from images rather than get_labels
-
-Low-confidence images; least wanted; defy easy groupings.
-
-#Christ. Ulr Anderson
-
-Metainterface design.
-
-Cute, zany, interesting images in 'Index Capitalism' - Sianne Ngai - manipulation of AI capitalism.
+## Workshop Demo for [Ways of] Machine Feeling 2019
 
 
-******
+
+READING: 
+
+https://www.tandfonline.com/doi/pdf/10.1179/030801810X12772143410485?needAccess=true 
 
 
-What can we learn from the OUTPUT of AI generators?
+Leo Impett
 
-What about AI IN games (as in, the development of more and more clever computational opponents - they used to 'cheat'); and 
+Partly Plagarized From:
+https://gym.openai.com/
+https://github.com/carpedm20/BEGAN-tensorflow
+https://github.com/petercunha/Emotion
+
