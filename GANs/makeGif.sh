@@ -1,0 +1,1 @@
+convert -delay 50 -loop 0 *_G.png gen.gif

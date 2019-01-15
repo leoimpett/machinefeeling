@@ -1,0 +1,8 @@
+source activate tensorflow
+
+
+CUDA_VISIBLE_DEVICES=0 python main.py --dataset=happy --use_gpu=True --input_scale_size=64 --max_step=50000
+
+
+
+
